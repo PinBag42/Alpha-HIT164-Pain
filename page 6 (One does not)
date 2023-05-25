@@ -1,0 +1,66 @@
+<!doctype html>
+<!doctype html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+<!--Should this title be like *our webpage* - *our page* etc?-->
+    <title>Website title - One does not Simply </title>
+</head>
+<html>
+<body>
+    <div class="divcolor"> 
+        <pre><a href="home.html" target="_blank">Home</a>         <a href="Page1.html" target="_blank">Cult of Rick.</a>         <a href="Page2.html" target="_blank">page 2</a>         <a href="Page3.html" target="_blank">DJ Memes.</a>          <a href="page4.html" target="_blank">page 4</a>          <a href="page5.html" target="_blank">This if Fine.</a>            <a href="page6.html" target="_blank">One Does not Simply.</a></pre>
+    </div>
+<h1> One Does not Simply </h1>
+<hr>
+<br>
+<h2>Brief history of movies and memes</h2>
+<p>Insert info.<br>
+Insert info.<br>
+Insert info.<br></p>
+<h4>Gallery of movies turned meme</h4>
+<p>Click below to view the movie scene that inspired the meme !<br></p>
+<br>
+<div class="row">
+  <div class="column">
+<video class="centervid2" width="320" height="480" controls>
+  <source src="ncpp2.mp4" type="video/mp4">
+</video>
+<br>
+<img src="ncppblank.jpg" width="320" height="340">
+<br>
+  </div>
+  <div class="column">
+<video class="centervid2" width="320" height="480" controls>
+  <source src="ncpp.mp4" type="video/mp4">
+</video>
+<br>
+  </div>
+  <div class="column">
+<video class="centervid2" width="320" height="480" controls>
+  <source src="ncpp.mp4" type="video/mp4">
+</video>
+<br>
+</div></div>
+<br>
+<hr>
+<h2>One meme to Rule them all</h2>
+<br>
+<div class="row">
+  <div class="column2">
+    <p><video class="centervid" width="700" height="500" controls>
+  <source src="onedoesnot.mp4" type="video/mp4">
+</video></p>
+  </div>
+  <div class="column2">
+    <p><a target="_blank" href="one.jpg"><img src="one.jpg" class="centerimg" width="450" height="250"></a><br>
+<a target="_blank" href="onememe.jpg"><img src="onememe.jpg" class="centerimg" width="450" height="250"></a></p>
+  </div></div>
+<br>
+<p>
+Talk about the scene from LOTR and how it became a meme.<br>
+Talk about the interview old mate did where he admits it's like the thing he'll be most famous for.<br>
+</p>
+<hr>
+</body>
+</html>
