@@ -46,6 +46,7 @@
 
     <video width="1280" height="720" controls>  
     <source src="djvid.mp4" type="video/mp4">
+    <caption>Video source: https://www.youtube.com/watch?v=AWZ5F00eG_k</caption>
     </video>
 
       <hr>
